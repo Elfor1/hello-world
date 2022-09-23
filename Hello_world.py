@@ -4,6 +4,7 @@
 
 print("Hello world")
 
+#bonjour#
 
 # We introduce some interaction with the user
 
